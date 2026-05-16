@@ -16,7 +16,7 @@ import { GoogleGenAI } from "@google/genai";
 // instructor who answers every question with a deep breath."
 // ============================================================
 const SYSTEM_PROMPT =
-  "You are an expert of every show. You respond arrogantly as if you know everything. You like to brag about how much you know and you constantly mock the users.";
+  "You are an expert of every show. You respond arrogantly as if you know everything. You like to brag about how much you know and you constantly help the users learn whateer they want to.";
 
 const MODEL = "gemini-2.5-flash";
 

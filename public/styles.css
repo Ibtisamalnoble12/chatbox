@@ -7,13 +7,13 @@
    green and purple". */
 
 :root {
-  --bg:           #0a0a0a;   /* page background */
-  --surface:      #161616;   /* AI bubble + input box */
-  --border:       #2a2a2a;   /* subtle dividers */
+  --bg:           #000000;   /* page background */
+  --surface:      #947ab0;   /* AI bubble + input box */
+  --border:       #9e3535;   /* subtle dividers */
   --text:         #ededed;   /* main text */
   --text-muted:   #8a8a8a;   /* subtitles, hints */
-  --accent:       #3b82f6;   /* user bubble + send button */
-  --accent-hover: #2563eb;
+  --accent:       #4b4b4b;   /* user bubble + send button */
+  --accent-hover: #d88585;
   --user-bubble:  var(--accent);
   --ai-bubble:    var(--surface);
 
